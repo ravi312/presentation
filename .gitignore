@@ -10,3 +10,5 @@ tmp/**
 node_modules/
 .sass-cache
 dist/*.map
+slides/rayveal.html
+rayveal.md

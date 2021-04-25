@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
-
+		<!--black,white,beige,league,sky,night,serif,simple,solarized,blood, moon-->
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
 	</head>
@@ -17,9 +17,10 @@
 		<div class="reveal">
 			<div class="slides">
 				<div class="slides">
-					<section data-markdown ="slides/rayveal.md"
+					<section data-markdown ="slides/demo-1.md"
 						data-separator="^\n\n"
-						data-separator-vertical="^\n\n\n" >
+						data-separator-vertical="^\n\n\n" 
+						data-separator-notes="^Note:" >
 				</div>
 			</div>
 		</div>
@@ -34,7 +35,14 @@
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
-                slideNumber: true,
+				slideNumber: true,
+				mouseWheel: true,
+				// Transition style
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+				// Transition speed
+				transitionSpeed: 'default', // default/fast/slow
+				// Transition style for full page slide backgrounds
+				backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
 				math: {
      				 mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
      				 config: 'TeX-AMS_HTML-full',
