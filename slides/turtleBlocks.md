@@ -1,154 +1,152 @@
-## Exploring turtle blocks
+## Exploring Turtle Blocks in online collaborating environment
 
-Ravi Sinha
+> (Sinha, R. & Dakulkar, A.) Poster selected on “Exploring Turtle Blocks in an online collaborative environment” for upcoming CSCL 2021. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/da/Straight_line_turtle_graphics.gif)
-
-
-## Databackground -1
-<!-- .element: style="color: rgb(204,0,86); background-color: rgba(0, 0, 0, 0.9); padding: 20px;" -->
-
-<!-- .slide: data-background="https://upload.wikimedia.org/wikipedia/commons/d/da/Straight_line_turtle_graphics.gif" data-background-repeat="repeat" data-background-size="250px"-->
-
-
-## Databackground - 2
-<!-- .element: style="color: rgb(204,0,86)" -->
-
-<!-- (18,2,34), (40,0,80), (204,0,86), (255,78,78), (249,242,242)-->
-
-
-## Zoom Background 
-
-<!-- .slide: data-background="rgba(204,0,86,.5)" data-background-transition="zoom"-->
-This is example of transition per slide
-
-
-## inserting iframe
-
-<!-- .slide: data-background-iframe="https://turtle.sugarlabs.org" data-background-interactive-->
-
-<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left">
 
 ## Abstract
 
-- design and and implementation of 
-- how it supports core programming concepts 
-- alignment with constructionist approach
-- Online session
-- Different styles used for problem solving
-</div>
-
-
-## Table
-
-|Description|Duration|
-|---|---|
-|go to slide 1 | [Slide 1](#exploring-turtle-blocks)|
-|go to end slide| [thank you](#slide-5)|
-|Text | normal text|
+- design and and implementation of turtleBlocks
+- How it supports core programming concepts ?
+- Problem solving strategies used by learners
+- Share some vignettes from the engagement in the context of problem-solving, computational thinking and collaborative interactions.
+- Several unique variations, indicating tinkering and different ways of problem-solving were seen in the submitted projects.
 
 
 ## Introduction
-- Visual programming advantages over text-based ( Reopenning, 2017)
-- Examples turtle blocks, scratch ( inspired by LOGO)
-- popularly known as microworlds based on constructionist ideas
-- > "a simplifies piece of reality which you can explore, and again there is no right or wrong" ( Papert, 1987)
-- serveral affordances
-	- "objects to think with"
-	- tinkerability
-	- allows different ways of knowing ( Resnick and Resenbaum, 2013)
-	- metaphorically, "low, floor, wide walls and high ceilings"( ) 	
-	- Noss and Hoyles, 2017
+
+- Visual programming advantages over text-based (Reopenning, 2017)
+  - Turtle blocks, Scratch et al. (inspired by LOGO)
+  - microworld (constructionist design)
+  - >"a simplifies piece of reality which you can explore, and again there is no right or wrong" ( Papert, 1987)
+
+
+## Affordances
+
+- "objects to think with"
+- tinkerability
+- allows different ways of knowing (Resnick and Resenbaum, 2013)
+- "low, floor, wide walls and high ceilings"( )
+- (Noss and Hoyles, 2017)
+- Design features
 - suitable for engaging both experts and novices tp create personally meaningful artifacts
-- Draf-drop gestures, color coded blocks -> command palette, snap like lego pieces
-	- insert gif of polygons, spiral square..
+- Draf-drop gestures, color coded blocks -> lego pieces
 
 
-## Research Design
+## Design objectives centered around?
+
+- How do we introduce learners to the microworlds?
+  - introduce the learners to a visual programming language
+  - context to express ideas in collaborative setting
+  - to foster computational thinking in the process 
+  - broader goal was to keep the engagement meaningful, accessible, personalized and universal. 
 
 
-## Research Questions
-- How do we introduce learners to the mi
-- objectives
-	- introduce the learners to a visual programming language
-	- to provide contexts for the learners to express their ideas and creations with others in the peer group
-	- to foster computational thinking in the process 
-- broader goal was to keep the engagement meaningful, accessible, personalized and universal. 
+## Context  
 
+- heterogeneous group of young people and adults 
+- engagement 6 weeks
 - Three weeks in the form of six online sessions
-- IM -> present the ideas in the form of challenges for others 
+- synchornous online session and asynchornous instant messaging (IM)
 - thematic challenges were given
 - encouraged to share their creations with others
 - learners submitted their projects along with a reflective questionnaire
 
-The objective of the study was to explore 
-- how the design of an online collaborative engagement influenced the teaching-learning processes in the context of a microworld.
-- The main research question had two parts:
-	- To understand the learning processes of the participants, and second was to identify which features of our designed engagement were beneficial in the constructionist framework of learning. 
-- Detailed analysis of the engagement is not yet complete, but the insights gained so far provide us with some broad findings and ideas for the next iteration of the engagement.
-- Share some vignettes from the engagement in the context of problem-solving, computational thinking and collaborative interactions.
+
+## Research Questions
+
+- How the design of an online collaborative engagement influenced the teaching-learning processes in the context of a microworld?
+  - To understand the learning processes of the participants
+  - To identify features of designed engagement were beneficial in the constructionist framework of learning.
+- detailed analysis of the engagement is not yet complete
 
 
-## Contexts
-- heterogeneous group of young people and adults 
-- engagement 6 weeks
-- synchornous online session and asynchornous instant messaging (IM)
+## Implementation
+
+- Six synchronous online sessions -> increasing complexity (one hour each),spaced across three weeks
+- Introduced some of the foundational programming concepts via projects. 
 
 
-## Slide 1
+## Lesson Design
 
- A paragraph with some text and a [link](http://hakim.se).
-
- ---
-
-
- ## Slide 2
-
-- Item 1 <!-- .element: class="fragment" data-fragment-index="1"-->
-- Item 2 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Item 3 <!-- .element: class="fragment" data-fragment-index="3" class="fragment highlight-red" -->
-- Item 4 <!-- .element: class="fragment" data-fragment-index="3" class="fragment highlight-blue" -->
-- Item 5 <!-- .element: class="fragment" data-fragment-index="3" class="fragment highlight-green" -->
+- code blocks covered in these sessions were 
+  - movement blocks (forward, left, back, right), 
+  - colour blocks (colour, shade), 
+  - loops and conditionals (repeat, forever, if, if-else), 
+  - variables (box), logical (OR, AND), numbers (number, random), f
+  - unctions (action)
+- Blocks -> Computational concepts -> sequences, iterations, loops, data , events, conditionals, operators, and parallelism (Brennan and Resnik, 2012).
 
 
-## AutoAnimate 1
+## Characteristics of the engagement 
 
- <!-- .slide: data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"-->
-- item 1  <!-- .element: data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;" -->
-- item 2  <!-- .element: data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;" -->
-
-
-## Autoanimate 2
-
- <!-- .slide: data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"-->
-- item 1  <!-- .element: data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;" -->
-- item 2  <!-- .element: data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"-->
+- project challenges
+- voluntary and cohort-driven
+- learners were encouraged to present their design challenges to their peers
+- IM group was used to share artefacts and for communications and discussions between the learners and the mentors
+- Curated wiki page containing exemplar projects from the Turtle Art community [Here](https://metastudio.org/t/turtleart-challenges-wiki/4036). 
 
 
- ## Slide 3
+## About participants
 
-   <!-- .slide: data-background="#ff0000" -->
-    Markdown content
-
-
-## slide 4
-
-    ```js [1-2|3|4]
-    let a = 1;
-    let b = 2;
-    let c = x => 1 + 2 + x;
-    c(3);
-    ```
+- Open invitation for the engagement was sent out to potential participants
+- Five participants (out of total nine) submitted the project files and reflection sheets, while others participated partially on IM platform and attended few live sessions. 
+- Distribution of learners was as follows: Grade 4-5 (1), Grade 6-8 (2), Grade 9-12 (1), Adult (1) 
+- Urban and semi-urban Indian settings
 
 
-## slide 5
+## Data Collection Sources
 
-The Lorenz Equations
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
+- Reflection Sheet, a reflective questionnaire completed by the participants, 
+- Project files
+- Discussions on the IM platform
+- Researcher notes and observations
 
-[Back to the first](#/0)
+
+## Methodology (Mixed-methods approach)
+
+- Thematic coding of Reflective entries, telegram discussion, journal entries
+- Quantitative analysis of blocks used in artefacts shared
+
+
+## Findings
+
+- Project files
+  - preference for certain types of simple blocks,
+  - some blocks were not used at all
+  - new blocks which were not discussed 
+  - usage of sequencing, iteration and randomization
+- Fondness for Ranndomness
+- Serendipitous discoveries
+- Limited blocks for programming -> variations in approaches to problem-solving among learners
 
 Note:
-This is for my own notes
+Open-ended nature of the challenges encouraged creative thinking as there was no single right answer. One of the powerful features of computationally powered graphics is the versatility of the designs that are possible during the learning process. 
 
 
+## Discussion and Reflections
+
+- importance of gradual scaffolding of CT concepts
+- opportunities for non-linear exploration
+- anchoring personally meaningful project challenges
+- certain programming concepts not very intuitive
+- easy to apply simple blocks in combination with repeat and random
+- possible to support novice learners irrespective of their age in online settings with minimal didactical teaching. 
+
+
+## cont..
+
+- Aspects of the engagement design that worked well
+  - presenting only the challenges
+  - introducing all the exemplar projects in the beginning
+  - matched readiness levels and interest. 
+- design becomes objects to think with -> different levels of learners in the cohort -> created a ZPD -> support collaborative learning
+- diverse group and open-ended challenges proved to be useful. 
+- infrastructural challenges identified during the study influence the learning process
+- limitation -> small sample and limited time frame of three weeks
+
+
+## References
+
+- Brennan, K., & Resnick, M. (2012). New frameworks for studying and assessing the development of computational thinking. 25.
+- Noss, R., & Hoyles, C. (2017). Constructionism and Microworlds. In E. Duval, M. Sharples, & R. Sutherland (Eds.), Technology Enhanced Learning (pp. 29–35). Springer International Publishing.
+- Resnick, M., Rosenbaum, E., (2013). Designing for tinkerability, in: Honey, M., Kanter, David.E. (Eds.), Design, Make, Play: Growing the next Generation of STEM Innovators. pp. 163–181.
