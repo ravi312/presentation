@@ -156,3 +156,37 @@ This is for my own notes
 
 _Noss, R., & Hoyles, C. (2017)._ Constructionism and Microworlds.In E. Duval, M. Sharples, & R. Sutherland (Eds.), Technology Enhanced Learning (pp. 29–35). Springer International Publishing.<!-- .element: style="background: magenta; width: auto; height: auto; border-radius: auto;"-->
 
+
+## r-stack
+
+ <!-- .slide: class="r-stack"-->
+
+![](https://placekitten.com/450/300 )<!-- .element: class="fragment fade-out" data-fragment-index="0" width="450" height="300" --> 
+![](https://placekitten.com/300/450) <!-- .element:  class="fragment current-visible" data-fragment-index="0" width="300" height="450" -->
+![](https://placekitten.com/400/400)<!-- .element: class="fragment" width="400" height="400"-->
+
+
+## r-stack
+
+<div class="r-stack">
+  <img class="fragment fade-out" data-fragment-index="0" src="https://placekitten.com/450/300" width="450" height="300">
+  <img class="fragment current-visible" data-fragment-index="0" src="https://placekitten.com/300/450" width="300" height="450">
+  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
+</div>
+
+
+## 
+
+<div class="r-stack">
+  <img class="fragment" src="https://placekitten.com/450/300" width="450" height="300">
+  <img class="fragment" src="https://placekitten.com/300/450" width="300" height="450">
+  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
+</div>
+
+
+## 
+
+<h2>Stretch Example</h2>
+<img class="r-stretch" src="https://placekitten.com/400/400">
+<p>Image byline</p>
+
