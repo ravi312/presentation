@@ -191,14 +191,6 @@ Note:
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f5/2-2_Representation_of_for_loop_in_python_and_turtle_Blocks.png)
 
 
-> ![set color value = 0](../assets/turtleBlocks/img/randomness/1.png)  
->  Spokes color with "set color" value = 0 
-
-
-> ![color wheel](../assets/turtleBlocks/img/randomness/2.png)  
-> The pop-up color wheel shows the numerical value corresponding to different colors which can be given as an input to "set color" block
-
-
 >![](https://upload.wikimedia.org/wikipedia/commons/1/1b/2-3_Making_a_Color_Spoke.png)  
 > Replacing the fixed numerical value with a random variable which generates any value in the range of 0-90 after each iteration of the for loop creating a multi-color-spoke.
 
@@ -265,13 +257,13 @@ Note:
 Open-ended nature of the challenges encouraged creative thinking as there was no single right answer. One of the powerful features of computationally powered graphics is the versatility of the designs that are possible during the learning process. 
 
 
-<!-- .slide: data-background="./assets/turtleBlocks/img/project/project-1.png" -->
-
-
-![](./assets/turtleBlocks/img/spider-chat.png)
+<!-- .slide: data-background="./assets/turtleBlocks/img/project-1.png"-->
 
 
 ![](./assets/turtleBlocks/img/block-frequency.png)
+
+
+![](./assets/turtleBlocks/img/spider-chat.png)
 
 
 
@@ -305,5 +297,3 @@ Open-ended nature of the challenges encouraged creative thinking as there was no
 - _Noss, R., & Hoyles, C. (2017)._ **Constructionism and Microworlds.** In E. Duval, M. Sharples, & R. Sutherland (Eds.), Technology Enhanced Learning (pp. 29–35). Springer International Publishing.
 
 - _Resnick, M., Rosenbaum, E., (2013)._ **Designing for tinkerability**, in: Honey, M., Kanter, David.E. (Eds.), Design, Make, Play: Growing the next Generation of STEM Innovators. pp. 163–181.
-
-
