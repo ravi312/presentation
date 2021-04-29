@@ -268,10 +268,10 @@ Open-ended nature of the challenges encouraged creative thinking as there was no
 <!-- .slide: data-background="../assets/turtleBlocks/img/project/project-1.png" -->
 
 
-![](../assets/turtleBlocks/img/spider-chat.png)
+![](./assets/turtleBlocks/img/spider-chat.png)
 
 
-![](../assets/turtleBlocks/img/block-frequency.png)
+![](./assets/turtleBlocks/img/block-frequency.png)
 
 
 
