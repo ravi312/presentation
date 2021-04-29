@@ -265,7 +265,7 @@ Note:
 Open-ended nature of the challenges encouraged creative thinking as there was no single right answer. One of the powerful features of computationally powered graphics is the versatility of the designs that are possible during the learning process. 
 
 
-<!-- .slide: data-background="../assets/turtleBlocks/img/project/project-1.png" -->
+<!-- .slide: data-background="./assets/turtleBlocks/img/project/project-1.png" -->
 
 
 ![](./assets/turtleBlocks/img/spider-chat.png)
