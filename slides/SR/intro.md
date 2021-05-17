@@ -172,20 +172,10 @@ Designing Wind Vane (STEMGames workshop, Jaipur, July 2019)
 
 
 <!-- .slide:  style="position: absolute; width: 70%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
-<!-- .slide: data-background="#f8e6f7" --> 
-|Prototype (Rain Gauge)||
-|---|---|
-|![](/slides/SR/assets/rain-sketch-2.png)<br>![](/slides/SR/assets/rain-prototype-2.png)|![](/slides/SR/assets/rain-sketch-1.png)<br>![](/slides/SR/assets/rain-prototype-1.png) |
-
-
-
-<!-- .slide:  style="position: absolute; width: 70%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 <!-- .slide: data-background="#f8e6f7" -->
 ![](/slides/SR/assets/roller-coaster.png)
 
-|||
-|---|---|
-||_Design Brief: Imagine you are in a roller coaster design team competing to design a new and exciting roller coaster ride for a playground. Your task is to design and build a mini paper model of the ride using the paper folds taught to you. You have to test your ride with the marble provided. The specifications are: 1) The entire roller coaster must fit on the base provided; 2) The marble on your ride should travel for at least 4 seconds; 3) You have to use at least 1 pillar, 1 loop, 1 straight track and 1 L-shaped track. Also, 1 wide loop and 1 funnel (specific to workshop 2); 4) It should be a self- supporting model; 5) Marble should travel from start to end without any external interference._ (Dalvi et al., 2020)|
+<small>_Design Brief: Imagine you are in a roller coaster design team competing to design a new and exciting roller coaster ride for a playground. Your task is to design and build a mini paper model of the ride using the paper folds taught to you. You have to test your ride with the marble provided. The specifications are: 1) The entire roller coaster must fit on the base provided; 2) The marble on your ride should travel for at least 4 seconds; 3) You have to use at least 1 pillar, 1 loop, 1 straight track and 1 L-shaped track. Also, 1 wide loop and 1 funnel (specific to workshop 2); 4) It should be a self- supporting model; 5) Marble should travel from start to end without any external interference._ (Dalvi et al., 2020)<small>
 
 
 
