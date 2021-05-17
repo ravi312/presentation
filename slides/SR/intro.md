@@ -189,10 +189,6 @@ Designing Wind Vane (STEMGames workshop, Jaipur, July 2019)
 
 
 
-<!-- .slide: data-background="/slides/SR/assets/tippi-top-img.png" -->  
-
-
-
 <!-- .slide: data-background="/slides/SR/assets/paperCircuit2.jpeg" -->  
 
 
