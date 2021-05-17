@@ -180,7 +180,7 @@ Designing Wind Vane (STEMGames workshop, Jaipur, July 2019)
 
 
 <!-- .slide:  style="position: absolute; width: 70%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
-<!-- .slide: data-background="#f8e6f7" --> 
+<!-- .slide: data-background="#f8e6f7" -->
 ![](/slides/SR/assets/roller-coaster.png)
 
 |||
